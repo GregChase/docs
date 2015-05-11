@@ -25,7 +25,6 @@ Commits: <a href="http://mail-archives.apache.org/mod_mbox/incubator-geode-commi
                         </li>
 			<li>User questions at <a href="http://stackoverflow.com/questions/tagged/geode+or+gemfire" target="_blank">Stack Overflow</a></li>
 			<li>We use the <a href="https://issues.apache.org/jira/browse/GEODE" target="_blank">Apache Geode JIRA for issue tracking</a></li>
-			<li>For other ways to contribute, see the <a href="http://projectgeode.org/community/">Project Geode community page</a></li>
 			</ul>
 </div>
 
